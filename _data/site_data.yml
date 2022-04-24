@@ -1,76 +1,76 @@
 home:
-  profile_name: ADRIANO <span>SMITH</span>
+  profile_name: BYEONGHO <span>YU</span>
   profile_img: "/assets/img/slider/1.jpg"
-  bio: "Creative Photographer based in New York and happy to travel all over Europe to capture photos."
+  bio: "Ph. D. candidate @ KAIST in Korea. My research interests are Field Robotics, Visual-inertial Odometry, Visual SLAM."
   social:
-    facebook: "http://facebook.com"
-    twitter: "http://twitter.com"
-    instagram: "http://instagram.com"
-    dribbble: "http://dribble.com"
-    tiktok: "http://tiktok.com"
+    #facebook: "http://facebook.com"
+    #twitter: "http://twitter.com"
+    instagram: "https://www.instagram.com/bhyu.93/"
+    #dribbble: "http://dribble.com"
+    #tiktok: "http://tiktok.com"
 
 about:
-  title: "Adriano Smith & <span>Photographer</span>"
-  description: "Hello, I am a creative photographer based in New York and happy to travel all over Europe to capture your big day in candid and authentic photos. I will create a lasting memory of the people."
+  title: "Byeongho Yu & <span>Roboitcs Researcher</span>"
+  description: "Hello, I am a big fan of robotics that can change the world."
   img_src: "/assets/img/slider/1.jpg"
   learn_more: Learn More
   lm_url: #
-  birthday: "01.07.1990"
-  age: 31
-  address: Ave 11, New York, USA
-  email: mail@gmail.com
-  phone: +77 022 177 05 05
-  study: Univercity of Texas
-  freelance: Available
+  birthday: "09.24.1993"
+  age: 28
+  address: No. 4227, E3-2, 291, Daehak-ro, Yuseong-gu, Daejeon, South Korea.
+  email: bhyu@kaist.ac.kr
+  phone: +82 10 4022 1069
+  study: Korea Advanced Institute of Science and Technology (KAIST)
+  freelance: Not Available
   photography:
-      - title: Wedding Photography
-        expertise: 95
-      - title: Lifestyle Photography
-        expertise: 85
-      - title: Family Photography
+      - title: Solidworks (3D CAD)
         expertise: 90
+      - title: ANSYS
+        expertise: 80
+      - title: MATLAB
+        expertise: 85
   languages:
+      - title: C/C++
+        expertise: 70
+      - title: Phython
+        expertise: 65
       - title: English
-        expertise: 95
-      - title: Japanese
-        expertise: 85
-      - title: Arabic
-        expertise: 90
-  project_completed: 777+
-  happy_clients: 3k+
-  lines_of_code: 9k+
+        expertise: 70
+  project_completed: 2+
+  #happy_clients: 3k+
+  lines_of_code: 999k+
   our_partners:
     - name: one 
       img_src: "/assets/img/partners/1.png"
       url: #
-    - name: two 
-      img_src: "/assets/img/partners/2.png"
-      url: #
-    - name: three 
-      img_src: "/assets/img/partners/3.png"
-      url: #
-    - name: Four 
-      img_src: "/assets/img/partners/4.png"
-      url: #
-    - name: Five 
-      img_src: "/assets/img/partners/5.png"
-      url: #
-    - name: Six 
-      img_src: "/assets/img/partners/6.png"
-      url: #
-    - name: Seven 
-      img_src: "/assets/img/partners/7.png"
-      url: #
-    - name: Eight 
-      img_src: "/assets/img/partners/8.png"
-      url: #
+    # - name: two 
+    #   img_src: "/assets/img/partners/2.png"
+    #   url: #
+    # - name: three 
+    #   img_src: "/assets/img/partners/3.png"
+    #   url: #
+    # - name: Four 
+    #   img_src: "/assets/img/partners/4.png"
+    #   url: #
+    # - name: Five 
+    #   img_src: "/assets/img/partners/5.png"
+    #   url: #
+    # - name: Six 
+    #   img_src: "/assets/img/partners/6.png"
+    #   url: #
+    # - name: Seven 
+    #   img_src: "/assets/img/partners/7.png"
+    #   url: #
+    # - name: Eight 
+    #   img_src: "/assets/img/partners/8.png"
+    #   url: #
 
 
 portfolio:
-  title: Creative Portfolio
+  title: Demo Videos
 
-news:
-  title: Latest News
+paper:
+  title: Paper Reviews
 
 contact:
   title: Get in Touch
