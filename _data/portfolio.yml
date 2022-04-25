@@ -1,6 +1,6 @@
 - name: CAROS
-  img_src: /assets/img/portfolio/caros.jpg
-  project_url: https://youtu.be/pabRKNEwC14
+  img_src: /assets/img/videos/caros.jpg
+  project_url: https://www.youtube.com/watch?v=pabRKNEwC14&ab_channel=KAISTUrbanRoboticsLab
   filter_classes: 'youtube'
   cat: YouTube
 
