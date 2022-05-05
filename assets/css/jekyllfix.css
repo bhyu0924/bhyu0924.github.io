@@ -1,7 +1,8 @@
+/*
 .tokyo_tm_news ul li {
   height: 58vh;
 }
-
+*/
 .tokyo_tm_news ul li .image img {
   height: 245px;
 }
@@ -167,3 +168,23 @@
 body.dark .logo-light, body.white .logo-dark{
   display: block;
 }
+
+/* added to make full-screen when pop up*/
+
+.tokyo_tm_modalbox_news .box_inner {
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+.description_wrap.scrollable {
+  height: 100%!important;
+}
+.tokyo_tm_modalbox_news .close {
+  left: 92%;
+  top: 12px;
+}
+.tokyo_tm_news ul li {
+  height: 100%;
+}
+
+/* added */
